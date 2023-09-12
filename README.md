@@ -1,6 +1,10 @@
 ### REPOSITORIO EN CONSTRUCCION👋
 ![Alt](![Alt](https://imgv3.fotor.com/images/homepage-feature-card/PNG-de-coches.jpg)
-
+	
+| Color | Código |
+| ----------- | ----------- |
+| Rojo | #FF0000 |
+| Azul | #0000FF |
 <!--
 **AndresCifu13/AndresCifu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
