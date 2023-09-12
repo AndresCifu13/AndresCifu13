@@ -5,6 +5,7 @@
 | ----------- | ----------- |
 | Rojo | #FF0000 |
 | Azul | #0000FF |
+
 <!--
 **AndresCifu13/AndresCifu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
